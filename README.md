@@ -1,9 +1,10 @@
 # Chrimbus CLI
 ---
 ## Description
-Christmas, the most wonderful time of the year, was made that much more magical by Tim and Eric's tasteful Chrimbus Special.
 
 ![Time and Eric Chrimbus Special](https://assets.mubi.com/images/film/125033/image-w1280.jpg?1477042553)
+
+Christmas, the most wonderful time of the year, was made that much more magical by Tim and Eric's tasteful Chrimbus Special.
 
 As Chrimbus grows near, so does the anticipated annual anxiety. *What do I get? Who do I give to? How do I remember what to give whom?* This is where the Chrimbus CLI comes in.
 
